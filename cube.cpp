@@ -128,7 +128,6 @@ void drawRotatingCube(float edgeLength, float speed) {
     drawSquare3d(vertexSide4, color2);
     drawSquare3d(vertexSide5, color3);
     drawSquare3d(vertexSide6, color3);
- 
 }
 
 int main(void)
